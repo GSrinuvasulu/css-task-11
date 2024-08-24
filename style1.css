@@ -19,7 +19,7 @@ body{
    background-color: aqua;
 }
 .container>.Translate:hover~img{
-    translate :(300px , 300px);
+    transform: translate(100px,100px);
     transition: all 1s ease-in-out;
 }
 .container>.Rotate:hover~img{
